@@ -1,5 +1,5 @@
 ---
-name: angular5-typescript2.5
+name: angular5
 description: Generates Angular 5 code with TypeScript 2.5 patterns. Trigger when working specifically with Angular 5 projects or when compatibility with Angular 5 is required.
 license: MIT
 metadata:
